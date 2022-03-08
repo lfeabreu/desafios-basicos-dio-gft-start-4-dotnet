@@ -1,0 +1,13 @@
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\GFT Start #4 .NET\Desafios Básicos - GFT Start #4 .NET\desafios-basicos-dio-gft-start-4-dotnet\Desafio3\bin\Debug\netcoreapp3.1\Desafio3.exe
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\GFT Start #4 .NET\Desafios Básicos - GFT Start #4 .NET\desafios-basicos-dio-gft-start-4-dotnet\Desafio3\bin\Debug\netcoreapp3.1\Desafio3.deps.json
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\GFT Start #4 .NET\Desafios Básicos - GFT Start #4 .NET\desafios-basicos-dio-gft-start-4-dotnet\Desafio3\bin\Debug\netcoreapp3.1\Desafio3.runtimeconfig.json
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\GFT Start #4 .NET\Desafios Básicos - GFT Start #4 .NET\desafios-basicos-dio-gft-start-4-dotnet\Desafio3\bin\Debug\netcoreapp3.1\Desafio3.runtimeconfig.dev.json
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\GFT Start #4 .NET\Desafios Básicos - GFT Start #4 .NET\desafios-basicos-dio-gft-start-4-dotnet\Desafio3\bin\Debug\netcoreapp3.1\Desafio3.dll
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\GFT Start #4 .NET\Desafios Básicos - GFT Start #4 .NET\desafios-basicos-dio-gft-start-4-dotnet\Desafio3\bin\Debug\netcoreapp3.1\Desafio3.pdb
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\GFT Start #4 .NET\Desafios Básicos - GFT Start #4 .NET\desafios-basicos-dio-gft-start-4-dotnet\Desafio3\obj\Debug\netcoreapp3.1\Desafio3.csprojAssemblyReference.cache
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\GFT Start #4 .NET\Desafios Básicos - GFT Start #4 .NET\desafios-basicos-dio-gft-start-4-dotnet\Desafio3\obj\Debug\netcoreapp3.1\Desafio3.csproj.CoreCompileInputs.cache
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\GFT Start #4 .NET\Desafios Básicos - GFT Start #4 .NET\desafios-basicos-dio-gft-start-4-dotnet\Desafio3\obj\Debug\netcoreapp3.1\Desafio3.AssemblyInfoInputs.cache
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\GFT Start #4 .NET\Desafios Básicos - GFT Start #4 .NET\desafios-basicos-dio-gft-start-4-dotnet\Desafio3\obj\Debug\netcoreapp3.1\Desafio3.AssemblyInfo.cs
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\GFT Start #4 .NET\Desafios Básicos - GFT Start #4 .NET\desafios-basicos-dio-gft-start-4-dotnet\Desafio3\obj\Debug\netcoreapp3.1\Desafio3.dll
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\GFT Start #4 .NET\Desafios Básicos - GFT Start #4 .NET\desafios-basicos-dio-gft-start-4-dotnet\Desafio3\obj\Debug\netcoreapp3.1\Desafio3.pdb
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\GFT Start #4 .NET\Desafios Básicos - GFT Start #4 .NET\desafios-basicos-dio-gft-start-4-dotnet\Desafio3\obj\Debug\netcoreapp3.1\Desafio3.genruntimeconfig.cache
