@@ -17,7 +17,9 @@ namespace Desafio1
             for( int i = 0 ; i < nota.GetLength(0) ; i++ )
             {
                 quociente = resto / nota[i];
-                Console.WriteLine($"{quociente} nota(s) de R$ {nota[i]},00");
+                if(quociente > 0){
+                    Console.WriteLine($"{quociente} nota(s) de R$ {nota[i]},00");
+                }
                 resto = resto % nota[i];
             }
         }

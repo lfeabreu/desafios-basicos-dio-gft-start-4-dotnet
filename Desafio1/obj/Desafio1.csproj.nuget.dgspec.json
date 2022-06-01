@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\labreu\\Documents\\Pessoal\\Cursos\\DIO\\Bootcamps\\GFT Start #4 .NET\\Desafios Básicos - GFT Start #4 .NET\\desafios-basicos-dio-gft-start-4-dotnet\\Desafio1\\Desafio1.csproj": {}
+    "C:\\Users\\labreu\\Documents\\GitHub\\desafios-basicos-dio-gft-start-4-dotnet\\Desafio1\\Desafio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\labreu\\Documents\\Pessoal\\Cursos\\DIO\\Bootcamps\\GFT Start #4 .NET\\Desafios Básicos - GFT Start #4 .NET\\desafios-basicos-dio-gft-start-4-dotnet\\Desafio1\\Desafio1.csproj": {
+    "C:\\Users\\labreu\\Documents\\GitHub\\desafios-basicos-dio-gft-start-4-dotnet\\Desafio1\\Desafio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\labreu\\Documents\\Pessoal\\Cursos\\DIO\\Bootcamps\\GFT Start #4 .NET\\Desafios Básicos - GFT Start #4 .NET\\desafios-basicos-dio-gft-start-4-dotnet\\Desafio1\\Desafio1.csproj",
+        "projectUniqueName": "C:\\Users\\labreu\\Documents\\GitHub\\desafios-basicos-dio-gft-start-4-dotnet\\Desafio1\\Desafio1.csproj",
         "projectName": "Desafio1",
-        "projectPath": "C:\\Users\\labreu\\Documents\\Pessoal\\Cursos\\DIO\\Bootcamps\\GFT Start #4 .NET\\Desafios Básicos - GFT Start #4 .NET\\desafios-basicos-dio-gft-start-4-dotnet\\Desafio1\\Desafio1.csproj",
+        "projectPath": "C:\\Users\\labreu\\Documents\\GitHub\\desafios-basicos-dio-gft-start-4-dotnet\\Desafio1\\Desafio1.csproj",
         "packagesPath": "C:\\Users\\labreu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\labreu\\Documents\\Pessoal\\Cursos\\DIO\\Bootcamps\\GFT Start #4 .NET\\Desafios Básicos - GFT Start #4 .NET\\desafios-basicos-dio-gft-start-4-dotnet\\Desafio1\\obj\\",
+        "outputPath": "C:\\Users\\labreu\\Documents\\GitHub\\desafios-basicos-dio-gft-start-4-dotnet\\Desafio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\labreu\\AppData\\Roaming\\NuGet\\NuGet.Config",
